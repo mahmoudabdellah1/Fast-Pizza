@@ -8,7 +8,7 @@
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
-     "deploy": "gh-pages -d dist",
+          "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@reduxjs/toolkit": "^2.11.2",
@@ -35,6 +35,6 @@
     "vite": "^4.4.5",
     "vite-plugin-eslint": "^1.8.1"
   },
-  "homepage": "https://mahmoudabdellah1.github.io/Fast-Pizza"
+  "homepage": "https://username.github.io/Fast-Pizza"
 
 }
